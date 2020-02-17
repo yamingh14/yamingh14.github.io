@@ -1,11 +1,11 @@
 # Site settings
 author: Yamin Ghowrwal
-title: 
+title: Yamin G Ruby Blog
 header-img: img/home-bg.png
 email: yamin.gh@gmail.com
 copyright_name: Yamin Ghowrwal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  yamingh14
