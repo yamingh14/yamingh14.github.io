@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Decided to Join Flatiron Part-time Software Engineering Course."
-date:       2020-02-23 17:21:26 +0000
+date:       2020-02-23 12:21:27 -0500
 permalink:  why_i_decided_to_join_flatiron_part-time_software_engineering_course
 ---
 
